@@ -7,28 +7,32 @@ function App() {
       <p className="text-base leading-relaxed text-zinc-500">
         This is a simple starter{" "}
         <a
-          href="#"
+          href="https://vitejs.dev/"
+          target="_blank"
           className=" text-zinc-900 underline decoration-sky-300 decoration-2 underline-offset-2 transition-all hover:decoration-sky-500"
         >
           Vite
         </a>{" "}
         template configured with{" "}
         <a
-          href=""
+          href="https://reactjs.org/"
+          target="_blank"
           className=" text-zinc-900 underline decoration-sky-300 decoration-2 underline-offset-2 transition-all hover:decoration-sky-500"
         >
           React
         </a>
         ,{" "}
         <a
-          href=""
+          href="https://tailwindcss.com/"
+          target="_blank"
           className=" text-zinc-900 underline decoration-sky-300 decoration-2 underline-offset-2 transition-all hover:decoration-sky-500"
         >
           Tailwind CSS
         </a>
         , and the official{" "}
         <a
-          href=""
+          href="https://github.com/tailwindlabs/prettier-plugin-tailwindcss"
+          target="_blank"
           className=" text-zinc-900 underline decoration-sky-300 decoration-2 underline-offset-2 transition-all hover:decoration-sky-500"
         >
           Prettier Tailwind CSS plugin

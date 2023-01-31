@@ -1,3 +1,3 @@
 # Vite + React + Tailwind CSS
 
-This is a simple starter Vite template configured with React, Tailwind CSS, and the official Prettier Tailwind CSS plugin.
+This is a simple starter [Vite](https://vitejs.dev/) template configured with [React](https://reactjs.org/), [Tailwind CSS](https://tailwindcss.com/), and the official [Prettier Tailwind CSS](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) plugin.
